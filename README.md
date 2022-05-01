@@ -1,6 +1,6 @@
 Hello!!
 
-What is this project? 
+###### ***This is repost of my old project I made when I was in the Java Spring-boot bootcamp***
 
 At first my intention was to create a blog app. In order to make better use of RabbitMQ, i pushed a bit further. Now it looks like a mix of Twitter and Snapchat - just a tiny one. You can call it FakeBook :D
 
